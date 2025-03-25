@@ -1,3 +1,4 @@
+"use client";
 import { Builder, Browser } from 'selenium-webdriver';
 import {useState} from "react";
 import { FormEvent } from 'react';
